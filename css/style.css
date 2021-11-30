@@ -78,4 +78,7 @@ body {
     .column-4 {
         width: 50%;
     }
+    #totalHorizontal {
+        width: 100%;
+    }
 }
